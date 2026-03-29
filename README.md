@@ -1,2 +1,0 @@
-# myoccho.github.io
-myoccho 
